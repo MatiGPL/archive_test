@@ -1,7 +1,7 @@
 const data = {
     name : "Mateusz",
     surname: "Reczek",
-    date: "24.07.2022"
+    date: "23.07.2022"
 }
 
     const container = document.getElementById("Container")    
